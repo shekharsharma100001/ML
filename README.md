@@ -5,24 +5,7 @@ Welcome to the **Machine Learning Roadmap**! This guide will help you navigate t
 ---
 
 ## 📌 Roadmap Overview
-Below is a simple visual representation of our roadmap:
 
-```mermaid
-graph TD;
-    A[Machine Learning] --> B[Mathematics];
-    A --> C[Python Playlist];
-    A --> D[Data Science Tools];
-    A --> E[Power BI, Tableau, Anaconda, Jupyter, Google Colab, Kaggle];
-    A --> F[SQL Playlist];
-    A --> G[Data Science Libraries];
-    A --> H[Machine Learning Concepts - CampusX];
-    A --> I[Deep Learning];
-    A --> J[NLP];
-    A --> K[LLMs];
-    A --> L[Generative AI];
-
-
-```
 
 ---
 
