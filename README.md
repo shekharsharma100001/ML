@@ -28,12 +28,14 @@ Welcome to the **Machine Learning Roadmap**! This guide will help you navigate t
 Mathematics is the backbone of Machine Learning. Below are essential topics to learn:
 
 ### 🔢 Topics Covered:
-- Linear Algebra
-- Probability & Statistics
-- Calculus & Optimization
+- **Linear Algebra:** Understand matrices, vectors, eigenvalues, eigenvectors, and matrix operations.
+- **Probability & Statistics:** Know probability distributions, statistical inference, random variables, and common distributions like normal, binomial, and Poisson.
+- **Calculus & Optimization:** Basic understanding of derivatives, gradients, and integrals. Especially helpful for optimization.
 
 ### 📚 Resources:
-- 📺 [YouTube Playlist - Mathematics for ML](#)
+- 🔢 [Linear Algebra - Mathematics for ML](https://youtu.be/pvMkV_NoskI?si=i6AKfJI0hyruug_-)
+- 📊 [Probability & Statistics - Mathematics for ML](https://youtu.be/4c12ll5y1QE?si=WnjhaehCPkZiltnW)
+- 📈 [Calculus & Optimization - Mathematics for ML](https://youtube.com/playlist?list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ&si=24b-5x91w4-sr8og)
 - 📄 [PDF - Mathematics for ML](#)
 
 ---
