@@ -53,53 +53,10 @@ A collection of tools used in Data Science.
 
 ## 🐍 **Python Playlist**
 - **Python**: Core programming language used in machine learning.
-- **Libraries**: Familiarity with libraries such as:
-    - `NumPy` for numerical computations
-    - `Pandas` for data manipulation
-    - `Matplotlib` and `Seaborn` for data visualization
-    - `Scikit-learn` for classical ML algorithms
-    - `TensorFlow` or `PyTorch` for deep learning
 
 ### 📚 Python Resources:
 - 📺 [Python (Basic to Advance)](https://youtube.com/playlist?list=PLI4OVrCFuY543naNBsCaRLrLSxI7MUOzZ&si=A7ZwSEocFQRV_H0L)
 - 📄 [Download PDF - Python](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Python_must_to_know_things.pdf)
-
-### 📚 NumPy Resources:
-**You can follow any of the playlist which ever you like**
-- 📺 [NumPy Playlist-1](https://youtube.com/playlist?list=PLSwH4ViBDl2TiNlS4NUIXfdFV-kPxMGvc&si=BFmmordJZ55qYDpT)
-- 📺 [NumPy Playlist-2](https://youtube.com/playlist?list=PLjVLYmrlmjGfgBKkIFBkMNGG7qyRfo00W&si=5MEUwQ0XYMftQpel)
-- 📄 [Download PDF - NumPy](https://raw.githubusercontent.com/shekharsharma100001/ML/main/NumPy-Cheat-Sheet.pdf)
-
-### 📚 Pandas Resources:
-**You can follow any of the playlist which ever you like**
-- 📺 [Pandas Playlist-1](https://youtube.com/playlist?list=PLSwH4ViBDl2TVY2_N3isP87-5eeePWIbi&si=wZqrmKG1EgDiBixD)
-- 📺 [Pandas Playlist-2](https://youtube.com/playlist?list=PLjVLYmrlmjGdEE2jFpL71LsVH5QjDP5s4&si=0LcgeFUxvHmiR-Qo)
-- 📄 [Download PDF - Pandas](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Pandas-Cheat-Sheet.pdf)
-
-### 📚 Matplotlib Resources:
-- 📺 [Matplotlib Playlist-1](https://youtube.com/playlist?list=PLSwH4ViBDl2Tau2B--9cJB6P5394XN42O&si=lGo_Ll5nMkVcHCLX)
-- 📺 [Matplotlib Playlist-2](https://youtube.com/playlist?list=PLjVLYmrlmjGcC0B_FP3bkJ-JIPkV5GuZR&si=-W9OqPIfrIa23mCv)
-- 📄 [Download PDF - Matplotlib](https://raw.githubusercontent.com/shekharsharma100001/ML/main/matplotlib-cheat-sheet.pdf)
-
-### 📚 Seaborn Resources:
-- 📺 [Seaborn Playlist-1](https://youtube.com/playlist?list=PLjVLYmrlmjGfhqSO3rF4n02rrj9w2Ch2C&si=3cxH89Q9fQHkin-g)
-- 📺 [Seaborn Playlist-2](https://www.youtube.com/live/DWVLRhnuGqI?si=IHQSDwchVkprCZxt)
-- 📄 [Download PDF - Seaborn](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Python_Seaborn_Cheat_Sheet.pdf)
-
-### 📚 Scikit-learn Resources:
-**Learn it along with Machine learning Algorithms**
-- 📺 [Scikit-learn](https://youtu.be/YyFuIubbqpo?si=CLxcHkHY3i6N0m7t)
-- 📄 [Download PDF - Scikit-learn](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Scikit_Learn_Cheat_Sheet_Python.pdf)
-
-### 📚 Tensorflow Resources:
-**Learn it along with Deep Learning**
-- 📺 [Tensorflow](https://youtube.com/playlist?list=PLfP3JxW-T70FcAYcw4vAppLpiw3AdsAU-&si=ecCOpD1AyizJBaoj)
-- 📄 [Download PDF - Keras](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Keras_Cheat_Sheet_gssmi8.pdf)
-
-### 📚 PyTorch Resources:
-**Learn it along with Deep Learning**
-- 📺 [PyTorch](https://youtube.com/playlist?list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7&si=Mdcg-SAkILxNsXXK)
-- 📄 [Download PDF - PyTorch](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Deep_Learning_with_PyTorch_1.pdf)
 
 ---
 
@@ -122,19 +79,62 @@ SQL is crucial for handling structured data.
 ---
 
 ## 📚 **Data Science Libraries**
-Essential Python libraries for ML.
 
-### 📚 Resources:
-- 📺 [Pandas & NumPy Guide](#)
-- 📺 [Scikit-Learn Tutorials](#)
+- **Libraries**: Familiarity with libraries such as:
+    - `NumPy` for numerical computations
+    - `Pandas` for data manipulation
+    - `Matplotlib` and `Seaborn` for data visualization
+    - `Scikit-learn` for classical ML algorithms
+    - `TensorFlow` or `PyTorch` for deep learning
+
+### 📚 NumPy Resources:
+**You can follow any of the playlist which ever you like**
+- 📺 [NumPy Playlist-1](https://youtube.com/playlist?list=PLSwH4ViBDl2TiNlS4NUIXfdFV-kPxMGvc&si=BFmmordJZ55qYDpT)
+- 📺 [NumPy Playlist-2](https://youtube.com/playlist?list=PLjVLYmrlmjGfgBKkIFBkMNGG7qyRfo00W&si=5MEUwQ0XYMftQpel)
+- 📄 [Download PDF - NumPy](https://raw.githubusercontent.com/shekharsharma100001/ML/main/NumPy-Cheat-Sheet.pdf)
+
+### 📚 Pandas Resources:
+**You can follow any of the playlist which ever you like**
+- 📺 [Pandas Playlist-1](https://youtube.com/playlist?list=PLSwH4ViBDl2TVY2_N3isP87-5eeePWIbi&si=wZqrmKG1EgDiBixD)
+- 📺 [Pandas Playlist-2](https://youtube.com/playlist?list=PLjVLYmrlmjGdEE2jFpL71LsVH5QjDP5s4&si=0LcgeFUxvHmiR-Qo)
+- 📄 [Download PDF - Pandas](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Pandas-Cheat-Sheet.pdf)
+
+### 📚 Matplotlib Resources:
+**You can follow any of the playlist which ever you like**
+- 📺 [Matplotlib Playlist-1](https://youtube.com/playlist?list=PLSwH4ViBDl2Tau2B--9cJB6P5394XN42O&si=lGo_Ll5nMkVcHCLX)
+- 📺 [Matplotlib Playlist-2](https://youtube.com/playlist?list=PLjVLYmrlmjGcC0B_FP3bkJ-JIPkV5GuZR&si=-W9OqPIfrIa23mCv)
+- 📄 [Download PDF - Matplotlib](https://raw.githubusercontent.com/shekharsharma100001/ML/main/matplotlib-cheat-sheet.pdf)
+
+### 📚 Seaborn Resources:
+**You can follow any of the playlist which ever you like**
+- 📺 [Seaborn Playlist-1](https://youtube.com/playlist?list=PLjVLYmrlmjGfhqSO3rF4n02rrj9w2Ch2C&si=3cxH89Q9fQHkin-g)
+- 📺 [Seaborn Playlist-2](https://www.youtube.com/live/DWVLRhnuGqI?si=IHQSDwchVkprCZxt)
+- 📄 [Download PDF - Seaborn](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Python_Seaborn_Cheat_Sheet.pdf)
+
+### 📚 Scikit-learn Resources:
+**Learn it along with Machine learning Algorithms**
+- 📺 [Scikit-learn](https://youtu.be/YyFuIubbqpo?si=CLxcHkHY3i6N0m7t)
+- 📄 [Download PDF - Scikit-learn](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Scikit_Learn_Cheat_Sheet_Python.pdf)
+
+### 📚 Tensorflow Resources:
+**Learn it along with Deep Learning**
+- 📺 [Tensorflow](https://youtube.com/playlist?list=PLfP3JxW-T70FcAYcw4vAppLpiw3AdsAU-&si=ecCOpD1AyizJBaoj)
+- 📄 [Download PDF - Keras](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Keras_Cheat_Sheet_gssmi8.pdf)
+
+### 📚 PyTorch Resources:
+**Learn it along with Deep Learning**
+- 📺 [PyTorch](https://youtube.com/playlist?list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7&si=Mdcg-SAkILxNsXXK)
+- 📄 [Download PDF - PyTorch](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Deep_Learning_with_PyTorch_1.pdf)
 
 ---
 
-## 📖 **Machine Learning Concepts (CampusX)**
+## 📖 **Machine Learning Concepts**
 A structured ML course.
 
 ### 📚 Resources:
-- 📺 [CampusX ML Playlist](#)
+- 📺 [Machine Learning Playlist](https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&si=58Z-0QgCvWL483qM)
+- 📄 [Download PDF - ML Notes](https://raw.githubusercontent.com/shekharsharma100001/ML/main/ML_notes)
+- 📄 [ML Book - Hands On ML](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Hands_On_ML.pdf)
 
 ---
 
