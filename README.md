@@ -143,7 +143,7 @@ Understanding Neural Networks.
 
 ### 📚 Resources:
 - 📺 [Deep Learning Concepts](https://youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&si=EH_XV4jgp-zgkD0A)
-- 📄 [Download PDF - DL Notes](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Notes_dl.pdf)
+- 📄 [Download PDF - DL Notes](https://raw.githubusercontent.com/shekharsharma100001/ML/main/dl_notes.pdf)
 
 ---
 
