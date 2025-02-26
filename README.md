@@ -20,7 +20,7 @@ Welcome to the **Machine Learning Roadmap**! This guide will help you navigate t
 - [🧠 Deep Learning](#-deep-learning)
 - [📜 NLP (Natural Language Processing)](#-nlp-natural-language-processing)
 - [🤖 LLMs (Large Language Models)](#-llms-large-language-models)
-- [🎨 Generative AI](#-generative-ai)
+- [🎨 Generative AI using LangChain](#-generative-ai-using-langchain)
 
 ---
 
@@ -65,7 +65,6 @@ For data analysis and visualization.
 
 ### 📚 Resources:
 - 📺 [Tableau](https://youtube.com/playlist?list=PL1gztxnUtwNdEMZANGZCS2OrpSGt0KDaH&si=wmmPjIobaACv479x)
-- 
 - 📺 [Power BI](https://youtube.com/playlist?list=PLxzTa0VPR9rw4QEQ49PdsFd3SmVXDR3-i&si=EECbScQMAm71FD9K)
 
 ---
