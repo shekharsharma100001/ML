@@ -48,7 +48,7 @@ Python is the most popular language for ML.
 
 ### 📚 Resources:
 - 📺 [Python (Baisc to Advance)](https://youtube.com/playlist?list=PLI4OVrCFuY543naNBsCaRLrLSxI7MUOzZ&si=A7ZwSEocFQRV_H0L)
-- 📄 [PDF - Python Basics](#)
+- 📄 [Download PDF - Python](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Python_must_to_know_things.pdf)
 
 ---
 
