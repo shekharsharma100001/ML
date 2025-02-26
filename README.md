@@ -11,10 +11,10 @@ Welcome to the **Machine Learning Roadmap**! This guide will help you navigate t
 
 ## 📖 **Table of Contents**
 - [📊 Mathematics](#-mathematics)
-- [🛠️ Data Science Tools](#-data-science-tools)
+- [🛠️ Data Science Tools](#data-science-tools)
 - [🐍 Python Playlist](#-python-playlist)
 - [📊 Power BI, Tableau](#-power-bi-tableau)
-- [🗄️ SQL Playlist](#-sql-playlist)
+- [🗄️SQL Playlist](#sql-playlist)
 - [📚 Data Science Libraries](#-data-science-libraries)
 - [📖 Machine Learning Concepts](#-machine-learning-concepts)
 - [🧠 Deep Learning](#-deep-learning)
