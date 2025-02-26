@@ -55,7 +55,8 @@ A collection of tools used in Data Science.
 - **Python**: Core programming language used in machine learning.
 
 ### 📚 Python Resources:
-- 📺 [Python (Basic to Advance)](https://youtube.com/playlist?list=PLI4OVrCFuY543naNBsCaRLrLSxI7MUOzZ&si=A7ZwSEocFQRV_H0L)
+- 📺 [Python Hindi Playlist (Basic to Advance)](https://youtube.com/playlist?list=PLI4OVrCFuY543naNBsCaRLrLSxI7MUOzZ&si=A7ZwSEocFQRV_H0L)
+- 📺 [Python English Playlist (Basic to Advance)](https://youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&si=HfOxqG6Xp9OGPEii)
 - 📄 [Download PDF - Python](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Python_must_to_know_things.pdf)
 
 ---
