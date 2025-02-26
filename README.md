@@ -44,10 +44,15 @@ Mathematics is the backbone of Machine Learning. Below are essential topics to l
 ---
 
 ## 🐍 **Python Playlist**
-Python is the most popular language for ML.
-
+- **Python**: Core programming language used in machine learning.
+- **Libraries**: Familiarity with libraries such as:
+    - `NumPy` for numerical computations
+    - `Pandas` for data manipulation
+    - `Matplotlib` and `Seaborn` for data visualization
+    - `Scikit-learn` for classical ML algorithms
+    - `TensorFlow` or `PyTorch` for deep learning
 ### 📚 Resources:
-- 📺 [Python (Baisc to Advance)](https://youtube.com/playlist?list=PLI4OVrCFuY543naNBsCaRLrLSxI7MUOzZ&si=A7ZwSEocFQRV_H0L)
+- 📺 [Python (Basic to Advance)](https://youtube.com/playlist?list=PLI4OVrCFuY543naNBsCaRLrLSxI7MUOzZ&si=A7ZwSEocFQRV_H0L)
 - 📄 [Download PDF - Python](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Python_must_to_know_things.pdf)
 
 ---
