@@ -11,8 +11,8 @@ Welcome to the **Machine Learning Roadmap**! This guide will help you navigate t
 
 ## 📖 **Table of Contents**
 - [📊 Mathematics](#-mathematics)
-- [🐍 Python Playlist](#-python-playlist)
 - [🛠️ Data Science Tools](#-data-science-tools)
+- [🐍 Python Playlist](#-python-playlist)
 - [📊 Power BI, Tableau, Anaconda, Jupyter, Google Colab, Kaggle](#-power-bi-tableau-anaconda-jupyter-google-colab-kaggle)
 - [🗄️ SQL Playlist](#-sql-playlist)
 - [📚 Data Science Libraries](#-data-science-libraries)
@@ -38,8 +38,16 @@ Mathematics is the backbone of Machine Learning. Below are essential topics to l
 - 📈 [Calculus & Optimization - Mathematics for ML](https://youtube.com/playlist?list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ&si=24b-5x91w4-sr8og)
 - 📄 [Download Notes 🔽](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Mathematics.pdf)
 
+---
+## 🛠️ **Data Science Tools**
+A collection of tools used in Data Science.
 
-
+### 📚 Resources:
+- 📺 [Jupyter Notebook Guide](https://youtu.be/Ou-7G9VQugg?si=SzHCYawazrM0MDV-)
+- 📺 [Kaggle for Beginners Part-1](https://youtu.be/K6GSdn_iv8s?si=WSTGvUNi_o4IZH9v)
+- 📺 [Kaggle for Beginners Part-2](https://youtu.be/i9T4E5bSLrE?si=jtIu2aAFUjQfO82j)
+- 📺 [Google Colab Tutorial](https://youtu.be/iMlMfrXJYSg?si=hIQ9j7I1flaIv-TT)
+- 📺 [Integration of Data Science Tools](https://youtu.be/82P5N2m41jE?si=K8lqSAxCAjlrZ1-7)
 
 ---
 
@@ -51,6 +59,7 @@ Mathematics is the backbone of Machine Learning. Below are essential topics to l
     - `Matplotlib` and `Seaborn` for data visualization
     - `Scikit-learn` for classical ML algorithms
     - `TensorFlow` or `PyTorch` for deep learning
+
 ### 📚 Python Resources:
 - 📺 [Python (Basic to Advance)](https://youtube.com/playlist?list=PLI4OVrCFuY543naNBsCaRLrLSxI7MUOzZ&si=A7ZwSEocFQRV_H0L)
 - 📄 [Download PDF - Python](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Python_must_to_know_things.pdf)
@@ -68,32 +77,29 @@ Mathematics is the backbone of Machine Learning. Below are essential topics to l
 - 📄 [Download PDF - Python](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Python_must_to_know_things.pdf)
 
 ### 📚 Matplotlib Resources:
-- 📺 [Python (Basic to Advance)](https://youtube.com/playlist?list=PLI4OVrCFuY543naNBsCaRLrLSxI7MUOzZ&si=A7ZwSEocFQRV_H0L)
+- 📺 [Matplotlib Playlist-1](https://youtube.com/playlist?list=PLSwH4ViBDl2Tau2B--9cJB6P5394XN42O&si=lGo_Ll5nMkVcHCLX)
+- 📺 [Matplotlib Playlist-2](https://youtube.com/playlist?list=PLjVLYmrlmjGcC0B_FP3bkJ-JIPkV5GuZR&si=-W9OqPIfrIa23mCv)
 - 📄 [Download PDF - Python](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Python_must_to_know_things.pdf)
 
 ### 📚 Seaborn Resources:
-- 📺 [Python (Basic to Advance)](https://youtube.com/playlist?list=PLI4OVrCFuY543naNBsCaRLrLSxI7MUOzZ&si=A7ZwSEocFQRV_H0L)
+- 📺 [Seaborn Playlist-1](https://youtube.com/playlist?list=PLjVLYmrlmjGfhqSO3rF4n02rrj9w2Ch2C&si=3cxH89Q9fQHkin-g)
+- 📺 [Seaborn Playlist-2](https://www.youtube.com/live/DWVLRhnuGqI?si=IHQSDwchVkprCZxt)
 - 📄 [Download PDF - Python](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Python_must_to_know_things.pdf)
 
 ### 📚 Scikit-learn Resources:
-- **Learn it along with Machine learning Algorithms**
-- 📺 [Python (Basic to Advance)](https://youtube.com/playlist?list=PLI4OVrCFuY543naNBsCaRLrLSxI7MUOzZ&si=A7ZwSEocFQRV_H0L)
+**Learn it along with Machine learning Algorithms**
+- 📺 [Scikit-learn](https://youtu.be/YyFuIubbqpo?si=CLxcHkHY3i6N0m7t)
 - 📄 [Download PDF - Python](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Python_must_to_know_things.pdf)
 
 ### 📚 Tensorflow Resources:
-- **Learn it along with Deep Learning**
-- 📺 [Python (Basic to Advance)](https://youtube.com/playlist?list=PLI4OVrCFuY543naNBsCaRLrLSxI7MUOzZ&si=A7ZwSEocFQRV_H0L)
+**Learn it along with Deep Learning**
+- 📺 [Tensorflow](https://youtube.com/playlist?list=PLfP3JxW-T70FcAYcw4vAppLpiw3AdsAU-&si=ecCOpD1AyizJBaoj)
 - 📄 [Download PDF - Python](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Python_must_to_know_things.pdf)
 
----
-
-## 🛠️ **Data Science Tools**
-A collection of tools used in Data Science.
-
-### 📚 Resources:
-- 📺 [Jupyter Notebook Guide](#)
-- 📺 [Kaggle for Beginners](#)
-- 📺 [Google Colab Tutorial](#)
+### 📚 PyTorch Resources:
+**Learn it along with Deep Learning**
+- 📺 [PyTorch](https://youtube.com/playlist?list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7&si=Mdcg-SAkILxNsXXK)
+- 📄 [Download PDF - Python](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Python_must_to_know_things.pdf)
 
 ---
 
