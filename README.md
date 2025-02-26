@@ -142,7 +142,7 @@ A structured ML course.
 Understanding Neural Networks.
 
 ### 📚 Resources:
-- 📺 [Neural Networks for Beginners](#)
+- 📺 [Deep Learning Concepts](https://youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&si=EH_XV4jgp-zgkD0A)
 - 📺 [PyTorch & TensorFlow Guide](#)
 
 ---
