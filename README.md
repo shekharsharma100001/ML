@@ -51,7 +51,37 @@ Mathematics is the backbone of Machine Learning. Below are essential topics to l
     - `Matplotlib` and `Seaborn` for data visualization
     - `Scikit-learn` for classical ML algorithms
     - `TensorFlow` or `PyTorch` for deep learning
-### 📚 Resources:
+### 📚 Python Resources:
+- 📺 [Python (Basic to Advance)](https://youtube.com/playlist?list=PLI4OVrCFuY543naNBsCaRLrLSxI7MUOzZ&si=A7ZwSEocFQRV_H0L)
+- 📄 [Download PDF - Python](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Python_must_to_know_things.pdf)
+
+### 📚 NumPy Resources:
+**You can follow any of the playlist which ever you like**
+- 📺 [NumPy Playlist-1](https://youtube.com/playlist?list=PLSwH4ViBDl2TiNlS4NUIXfdFV-kPxMGvc&si=BFmmordJZ55qYDpT)
+- 📺 [NumPy Playlist-2](https://youtube.com/playlist?list=PLjVLYmrlmjGfgBKkIFBkMNGG7qyRfo00W&si=5MEUwQ0XYMftQpel)
+- 📄 [Download PDF - Python](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Python_must_to_know_things.pdf)
+
+### 📚 Pandas Resources:
+**You can follow any of the playlist which ever you like**
+- 📺 [Pandas Playlist-1](https://youtube.com/playlist?list=PLSwH4ViBDl2TVY2_N3isP87-5eeePWIbi&si=wZqrmKG1EgDiBixD)
+- 📺 [Pandas Playlist-2](https://youtube.com/playlist?list=PLjVLYmrlmjGdEE2jFpL71LsVH5QjDP5s4&si=0LcgeFUxvHmiR-Qo)
+- 📄 [Download PDF - Python](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Python_must_to_know_things.pdf)
+
+### 📚 Matplotlib Resources:
+- 📺 [Python (Basic to Advance)](https://youtube.com/playlist?list=PLI4OVrCFuY543naNBsCaRLrLSxI7MUOzZ&si=A7ZwSEocFQRV_H0L)
+- 📄 [Download PDF - Python](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Python_must_to_know_things.pdf)
+
+### 📚 Seaborn Resources:
+- 📺 [Python (Basic to Advance)](https://youtube.com/playlist?list=PLI4OVrCFuY543naNBsCaRLrLSxI7MUOzZ&si=A7ZwSEocFQRV_H0L)
+- 📄 [Download PDF - Python](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Python_must_to_know_things.pdf)
+
+### 📚 Scikit-learn Resources:
+- **Learn it along with Machine learning Algorithms**
+- 📺 [Python (Basic to Advance)](https://youtube.com/playlist?list=PLI4OVrCFuY543naNBsCaRLrLSxI7MUOzZ&si=A7ZwSEocFQRV_H0L)
+- 📄 [Download PDF - Python](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Python_must_to_know_things.pdf)
+
+### 📚 Tensorflow Resources:
+- **Learn it along with Deep Learning**
 - 📺 [Python (Basic to Advance)](https://youtube.com/playlist?list=PLI4OVrCFuY543naNBsCaRLrLSxI7MUOzZ&si=A7ZwSEocFQRV_H0L)
 - 📄 [Download PDF - Python](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Python_must_to_know_things.pdf)
 
