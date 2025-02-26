@@ -13,10 +13,10 @@ Welcome to the **Machine Learning Roadmap**! This guide will help you navigate t
 - [📊 Mathematics](#-mathematics)
 - [🛠️ Data Science Tools](#-data-science-tools)
 - [🐍 Python Playlist](#-python-playlist)
-- [📊 Power BI, Tableau, Anaconda, Jupyter, Google Colab, Kaggle](#-power-bi-tableau-anaconda-jupyter-google-colab-kaggle)
+- [📊 Power BI, Tableau](#-power-bi-tableau)
 - [🗄️ SQL Playlist](#-sql-playlist)
 - [📚 Data Science Libraries](#-data-science-libraries)
-- [📖 Machine Learning Concepts (CampusX)](#-machine-learning-concepts-campusx)
+- [📖 Machine Learning Concepts](#-machine-learning-concepts)
 - [🧠 Deep Learning](#-deep-learning)
 - [📜 NLP (Natural Language Processing)](#-nlp-natural-language-processing)
 - [🤖 LLMs (Large Language Models)](#-llms-large-language-models)
@@ -60,12 +60,13 @@ A collection of tools used in Data Science.
 
 ---
 
-## 📊 **Power BI, Tableau, Anaconda, Jupyter, Google Colab, Kaggle**
-Data visualization and cloud-based tools.
+## 📊 **Power BI, Tableau**
+For data analysis and visualization.
 
 ### 📚 Resources:
-- 📺 [Tableau & Power BI Crash Course](#)
-- 📄 [Anaconda Installation Guide](#)
+- 📺 [Tableau](https://youtube.com/playlist?list=PL1gztxnUtwNdEMZANGZCS2OrpSGt0KDaH&si=wmmPjIobaACv479x)
+- 
+- 📺 [Power BI](https://youtube.com/playlist?list=PLxzTa0VPR9rw4QEQ49PdsFd3SmVXDR3-i&si=EECbScQMAm71FD9K)
 
 ---
 
@@ -152,8 +153,10 @@ Understanding Neural Networks.
 Working with text data.
 
 ### 📚 Resources:
-- 📺 [NLP with Python](#)
-- 📺 [NLP Project Guide](#)
+- 📺 [NLP with Python](https://youtube.com/playlist?list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn&si=BUOOv_h7wrzBm6-0)
+**You can also refer below playlist for better understanding of some topics**
+- 📺 [NLP Project Guide](https://youtube.com/playlist?list=PLkyja1QUaq_AcGq4tsvHFEkZjVlk7ldCz&si=keqYC_vimjjrMOFN)
+- 📺 [NLP Project Guide](https://youtube.com/playlist?list=PL7Ej1JXjA9xBM7-7H9nilgAmF7kTK7e6F&si=ROIfQRfHnnbaEEvJ)
 
 ---
 
@@ -161,23 +164,19 @@ Working with text data.
 Introduction to models like GPT, BERT.
 
 ### 📚 Resources:
-- 📺 [LLMs Explained](#)
-- 📺 [Fine-tuning LLMs](#)
+- 📺 [LLMs Explained](https://youtu.be/8fX3rOjTloc?si=LqfBFYueYdv0mhgq)
+- 📺 [Fine-tuning LLMs](https://youtube.com/playlist?list=PLZoTAELRMXVN9VbAx5I2VvloTtYmlApe3&si=hhudiIqcZX9RoQNE)
 
 ---
 
-## 🎨 **Generative AI**
+## 🎨 **Generative AI Using LangChain**
 AI that creates new content.
 
 ### 📚 Resources:
-- 📺 [Generative AI with Diffusion Models](#)
-- 📺 [DALL-E & ChatGPT](#)
+- 📺 [Generative AI Playlist-1](https://youtube.com/playlist?list=PLA1lVIthbM1D5I6r5uY2K89X1KD2w5LNh&si=1PzaeTB7u8XjfWvb)
+- 📺 [Generative AI Playlist-2](https://youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0&si=IpyL8_RmMJMv90y0)
 
 ---
 
-# 📌 **Contribute**
-If you find any useful resources, feel free to contribute!  
-
----
 
 Happy Learning! 🚀  
