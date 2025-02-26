@@ -47,7 +47,7 @@ Mathematics is the backbone of Machine Learning. Below are essential topics to l
 Python is the most popular language for ML.
 
 ### 📚 Resources:
-- 📺 [YouTube Playlist - Python for ML](#)
+- 📺 [Python (Baisc to Advance)](https://youtube.com/playlist?list=PLI4OVrCFuY543naNBsCaRLrLSxI7MUOzZ&si=A7ZwSEocFQRV_H0L)
 - 📄 [PDF - Python Basics](#)
 
 ---
