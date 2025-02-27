@@ -79,6 +79,7 @@ SQL is crucial for handling structured data.
 - 📺 [SQL for Data Science](https://youtube.com/playlist?list=PLavw5C92dz9Ef4E-1Zi9KfCTXS_IN8gXZ&si=LJlQaUAQczkKfgK6)
 - 📺 [SQL (Interview Series)](https://youtube.com/playlist?list=PLavw5C92dz9Hxz0YhttDniNgKejQlPoAn&si=Vr0SRJ2iFoN2CeQu)
 - 📄 [SQL Book](https://raw.githubusercontent.com/shekharsharma100001/ML/main/SQL_Book.pdf)
+- 📄 [SQL Leetcode Questions PDF](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Leetcode_SQL.pdf)
 
 ---
 
