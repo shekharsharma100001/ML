@@ -5,7 +5,7 @@ Welcome to the **Machine Learning Roadmap**! This guide will help you navigate t
 ---
 
 ## 📌 Roadmap Overview
-![Loading...](https://assets.digitalocean.com/articles/alligator/boo.svg "Roadmap to Machine Learning")
+![Loading...](rd.png "Roadmap to Machine Learning")
 
 
 ---
