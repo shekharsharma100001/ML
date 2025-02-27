@@ -81,6 +81,27 @@ SQL is crucial for handling structured data.
 - 📄 [SQL Book](https://raw.githubusercontent.com/shekharsharma100001/ML/main/SQL_Book.pdf)
 - 📄 [SQL Leetcode Questions PDF](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Leetcode_SQL.pdf)
 
+### Practice Problems based on SQL
+
+|Sr. No.|**Problem** | **DIFFICULTY** |
+|--|--|---|
+|1| [Combine two tables](https://leetcode.com/problems/combine-two-tables/description/) | Easy |
+|2| [Duplicate emails](https://leetcode.com/problems/duplicate-emails/description/) | Easy |
+|3| [Customers who never order](https://leetcode.com/problems/customers-who-never-order/description/) | Easy |
+|4| [Delete duplicate emails](https://leetcode.com/problems/delete-duplicate-emails/description/) | Easy |
+|5| [Rising temperature](https://leetcode.com/problems/rising-temperature/description/) | Easy |
+|6| [Find customer referee](https://leetcode.com/problems/find-customer-referee/description/) | Easy |
+|7| [Big countries](https://leetcode.com/problems/big-countries/description/) | Easy |
+|8| [Classes more than 5 students](https://leetcode.com/problems/classes-more-than-5-students/description/) | Easy |
+|9| [Sales person](https://leetcode.com/problems/sales-person/description/) | Easy |
+|10| [Triangle judgement](https://leetcode.com/problems/triangle-judgement/description/) | Easy |
+|11| [Biggest single number](https://leetcode.com/problems/biggest-single-number/description/) | Easy |
+|12| [Not boring movies](https://leetcode.com/problems/not-boring-movies/description/) | Easy |
+|13| [Swap salary](https://leetcode.com/problems/swap-salary/description/) | Easy |
+|14| [Product sales analysis 1](https://leetcode.com/problems/product-sales-analysis-i/description/) | Easy |
+|15| [Project employees 1](https://leetcode.com/problems/project-employees-i/description/) | Easy |
+|16| [Sales analysis III](https://leetcode.com/problems/sales-analysis-iii/description/) | Easy |
+
 ---
 
 ## 📚 **Data Science Libraries**
