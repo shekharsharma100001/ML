@@ -19,6 +19,7 @@ Welcome to the **Machine Learning Roadmap**! This guide will help you navigate t
 - [📚 Data Science Libraries](#-data-science-libraries)
 - [📖 Machine Learning Concepts](#-machine-learning-concepts)
 - [🧠 Deep Learning](#-deep-learning)
+- [👀 Computer Vision](#-computer-vision)
 - [📜 NLP (Natural Language Processing)](#-nlp-natural-language-processing)
 - [🤖 LLMs (Large Language Models)](#-llms-large-language-models)
 - [🎨 Generative AI using LangChain](#-generative-ai-using-langchain)
@@ -149,6 +150,16 @@ Understanding Neural Networks.
 - 📄 [Download PDF - DL Notes](https://raw.githubusercontent.com/shekharsharma100001/ML/main/dl_notes.pdf)
 
 ---
+
+## 👀 **Computer Vision**
+Computer vision enables machines to interpret, analyze, and understand visual information from images or videos to make intelligent decisions.
+
+### 📚 Resources:
+- 📺 [OpenCV](https://youtu.be/MVkny_XLK_U?si=w9u6W1ge-5EAzkzv)
+- 📺 [Computer Vision Projects](https://youtube.com/playlist?list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&si=RkFtTxAvA-TjWbH4)
+
+---
+
 
 ## 📜 **NLP (Natural Language Processing)**
 Working with text data.
