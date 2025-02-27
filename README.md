@@ -190,8 +190,8 @@ Working with text data.
 
 ### 📚 Resources:
 - 📺 [NLP with Python](https://youtube.com/playlist?list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn&si=BUOOv_h7wrzBm6-0)
-**You can also refer below playlist for better understanding of some topics**
-- 📺 [NLP Project Guide](https://youtube.com/playlist?list=PLkyja1QUaq_AcGq4tsvHFEkZjVlk7ldCz&si=keqYC_vimjjrMOFN)
+- **You can also refer below playlist for better understanding of some topics**
+- 📺 [NLP Playlist-2](https://youtube.com/playlist?list=PLkyja1QUaq_AcGq4tsvHFEkZjVlk7ldCz&si=keqYC_vimjjrMOFN)
 - 📺 [NLP Project Guide](https://youtube.com/playlist?list=PL7Ej1JXjA9xBM7-7H9nilgAmF7kTK7e6F&si=ROIfQRfHnnbaEEvJ)
 
 ---
