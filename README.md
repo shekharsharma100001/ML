@@ -161,7 +161,7 @@ A structured ML course.
 
 ### 📚 Resources:
 - 📺 [Machine Learning Playlist](https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&si=58Z-0QgCvWL483qM)
-- 📄 [Download PDF - ML Notes](https://raw.githubusercontent.com/shekharsharma100001/ML/main/ML_notes)
+- 📄 [Download PDF - ML Notes](https://raw.githubusercontent.com/shekharsharma100001/ML/main/ML_notes.pdf)
 - 📄 [ML Book - Hands On ML](https://raw.githubusercontent.com/shekharsharma100001/ML/main/Hands_On_ML.pdf)
 
 ---
